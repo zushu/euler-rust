@@ -1,1 +1,1 @@
-I am solving Project Euler problems with Rust in order to learn its syntax.
+I am solving Project Euler problems with Rust to learn its syntax.
